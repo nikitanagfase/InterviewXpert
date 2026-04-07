@@ -5,27 +5,31 @@ Smart Interview Analysis Platform.
 **Proposed System Modules – InterviewXpert: Smart Interview Analysis Platform**
 
 **1. Interview Question Repository Module**
+
 This module provides a structured collection of interview questions and answers based on different domains and job roles. Users can select their preferred field (e.g., technical, HR, aptitude) and access commonly asked interview questions along with appropriate answers. This module helps users build a strong foundation for interview preparation.
 
 ---
 
 **2. AI-Based Question Generation Module**
+
 This module allows users to upload their resume or enter specific queries. Based on the input, the system uses AI techniques to analyze the content and generate relevant interview questions dynamically. This ensures personalized interview preparation tailored to the user’s skills, experience, and job role.
 
 ---
 
 **3. Smart Interview Simulation Module**
+
 In this module, users can select a job role and start a simulated interview session. The system presents questions one by one in a real-time interview-like environment. Users are required to answer each question before proceeding to the next, creating a realistic interview experience.
 
 ---
 
 **4. Performance Analysis Dashboard Module**
+
 Based on the user’s responses in the interview simulation, the system evaluates performance and generates a dashboard. The dashboard highlights key metrics such as strengths, weaknesses, and overall performance. This helps users identify areas for improvement and track their progress over time.
 
 ---
 
 **Future Scope**
 
-• Integration of voice-based interview system for real-time speaking practice.
-• Implementation of AI-based recommendation system for personalized learning paths.
-• Advanced analytics for detailed performance tracking and improvement suggestions.
+- Integration of voice-based interview system for real-time speaking practice.
+- Implementation of AI-based recommendation system for personalized learning paths.
+- Advanced analytics for detailed performance tracking and improvement suggestions.
